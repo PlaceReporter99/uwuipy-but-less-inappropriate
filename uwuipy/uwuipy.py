@@ -39,7 +39,6 @@ class uwuipy:
         '***glomps***',
         '***looks around suspiciously***',
         '***smirks smuggly***',
-        '***pounces on your buldge***',
         '***breaks into your house and aliases neofetch to rm -rf --no-preserve-root /***',
     ]
 
